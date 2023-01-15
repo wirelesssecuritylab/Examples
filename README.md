@@ -103,6 +103,7 @@ Do you have your own case study that you like to share with the community? Send 
 | 90 | Petri Nets | <a href="https://github.com/elh/petri-tlaplus">Instantiable Petri Nets with liveness properties</a> | Eugene Huang | | &#10004; | Integers, Sequences, FiniteSets, TLC | |
 | 91 | Knuth Yao & Markov Chains | <a href="specifications/KnuthYao">Knuth-Yao algorithm for simulating a sixsided die</a> | Ron Pressler, Markus Kuppe | | &#10004; | DyadicRationals | |
 | 92 | ewd426 - Token Stabilization | <a href="specifications/ewd426">Self-stabilizing systems in spite of distributed control</a> | Murat Demirbas, Markus Kuppe | | &#10004; | Naturals, FiniteSets | |
+| 93 | CRDT | <a href="https://github.com/JYwellin/CRDT-TLA">Specifying and Verifying CRDT Protocols</a> | Ye Ji, Hengfeng Wei | | &#10004;| Naturals, FiniteSets |  |
 
 ## License
 
